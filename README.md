@@ -1,6 +1,5 @@
 # my_robot_description — Perception Pipeline
 
-## What's new in this version
 
 ### Bug fix: Empty centre strip in coloured cloud
 **Root cause:** The LiDAR is at `x=0.122 m` and the camera at `x=0.300 m` on
